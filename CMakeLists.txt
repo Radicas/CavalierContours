@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.21)
 
 # detect if CavalierContours is a subproject or not
 # do not include examples, tests, and benchmarks in that case
+
 if(NOT DEFINED PROJECT_NAME)
   set(NOT_SUBPROJECT ON)
 endif()

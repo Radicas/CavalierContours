@@ -23,3 +23,5 @@ CMakePresets.json
 
 .VSCodeCounter/*
 .DS_Store
+
+cmake-*
